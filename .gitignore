@@ -1,0 +1,13 @@
+# Compiled binaries
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Build directories
+build/
+
+# Debug / crash files
+core
