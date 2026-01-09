@@ -11,3 +11,9 @@ This repository is structured as a daily practice log and reflects continuous im
 - https://www.w3schools.com/c/index.php
 
 - https://www.learn-c.org
+
+- https://www.w3resource.com/c-programming-exercises
+
+- https://www.hackerrank.com/domains/c
+
+
