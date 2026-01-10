@@ -17,3 +17,6 @@ This repository is structured as a daily practice log and reflects continuous im
 - https://www.hackerrank.com/domains/c
 
 
+# Videos watched throughout the camp:
+
+
