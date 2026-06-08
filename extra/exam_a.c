@@ -158,6 +158,7 @@ void write_student2(Student arr[], int n, char *filename) {
 Student find_top(char *filename) fonksiyonunu yazınız. 
 Dosyayı okuyarak GPA'sı en yüksek öğrenciyi döndürmelidir. 
 Dosyanın en az bir satır içerdiğini varsayabilirsiniz.
+
 */
 
 float find_top(char *filename) {
