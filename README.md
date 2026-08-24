@@ -17,10 +17,10 @@ The repository is actively updated and will keep growing as I progress through m
 
 This repository is the first step in a broader undergraduate learning path focused on low-level and systems programming. Future installments will cover related courses as I take them.
 
-| Course | Institution | Status | Repository |
-|--------|-------------|--------|------------|
-| CSE 114 — Programming with C | Yeditepe University | In progress (Spring 2026) | this repository |
-| CSE 211 — Data Structures | Yeditepe University | Upcoming | *coming soon* |
+| Course                          | Institution         | Status                    | Repository                                                         |
+| ------------------------------- | ------------------- | ------------------------- | ------------------------------------------------------------------ |
+| CSE 114 — Programming with C    | Yeditepe University | In progress (Spring 2026) | this repository                                                    |
+| CSE 211 — Data Structures (C++) | Yeditepe University | Upcoming                  | [cpp-foundations](https://github.com/gorkemergune/cpp-foundations) |
 
 ---
 
@@ -68,7 +68,7 @@ gcc file_name.c -o program
 ## Course Information
 
 **Yeditepe University — CSE 114: Programming with C**
-Academic term: *Spring 2026*
+Academic term: _Spring 2026_
 
 CSE 114 is a foundational course that introduces the C programming language alongside core computer-science concepts such as algorithmic thinking, problem decomposition, and debugging. This repository tracks the course in near real time and includes:
 
@@ -96,10 +96,11 @@ Archived lab solutions from an earlier offering of the course, kept as a referen
 
 Small projects I built in C to apply and extend the concepts learned in the course:
 
-| Project | Description |
-|---------|-------------|
-| [sorting-visualizer](https://github.com/gorkemergune/sorting-visualizer) | A visual demonstration of classic sorting algorithms (bubble, insertion, selection, quick, merge). Helpful for internalizing the mechanics behind each algorithm. |
-| [raylib-space-shooter](https://github.com/gorkemergune/raylib-space-shooter) | A small 2D space-shooter game built with the [raylib](https://www.raylib.com) graphics library. A practical exercise in structuring a small C codebase, managing game state, and handling real-time input. |
+| Project                                                                      | Description                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [gorkem-os](https://github.com/gorkemergune/gorkem-os)                       | An educational x86 operating system written from scratch in C and Assembly. Covers a custom bootloader, interrupt handling, physical/virtual memory management, process scheduling, a basic file system, and an interactive shell. Built and tested with NASM,`i686-elf-gcc`, Make, and QEMU. My deepest dive into low-level systems programming so far. |
+| [sorting-visualizer](https://github.com/gorkemergune/sorting-visualizer)     | A visual demonstration of classic sorting algorithms (bubble, insertion, selection, quick, merge). Helpful for internalizing the mechanics behind each algorithm.                                                                                                                                                                                        |
+| [raylib-space-shooter](https://github.com/gorkemergune/raylib-space-shooter) | A small 2D space-shooter game built with the[raylib](https://www.raylib.com) graphics library. A practical exercise in structuring a small C codebase, managing game state, and handling real-time input.                                                                                                                                                |
 
 ---
 
@@ -111,7 +112,7 @@ A curated list of the materials I have personally found most useful. These are m
 
 - [W3Schools — C Tutorial](https://www.w3schools.com/c/index.php) — a solid first pass on syntax
 - [Learn-C.org](https://www.learn-c.org) — interactive, in-browser exercises
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) — a thorough and very readable free book
+- [Beej&#39;s Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) — a thorough and very readable free book
 
 ### Video Courses
 
@@ -125,20 +126,6 @@ A curated list of the materials I have personally found most useful. These are m
 
 ---
 
-## Contributing and Feedback
-
-If you are a fellow student and you notice an error, have a clearer explanation, or want to suggest an improvement to any note or solution, please open an issue or submit a pull request. Corrections and discussion are genuinely welcome.
-
-If you would like to see additional exams, lab solutions, or lecture notes included here, there are two ways to contribute:
-
-- **Fork the repository** and add your own work through a pull request. Contributions will be credited to their original authors.
-- **Reach out to me directly** via one of the channels below, and I will be happy to review and incorporate your materials:
-  - [Email](mailto:gorkemergune2@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/gorkemergune)
-  - [Instagram](https://www.instagram.com/ayarlicazhocam)
-
----
-
 ## Academic Integrity and Disclaimer
 
 All code, notes, and explanations in this repository are written by me. The style, structure, and syntactical choices reflect my own understanding at the time of writing and should be read as a learning log rather than as a canonical reference. Many of the solutions can almost certainly be written more concisely, more elegantly, or more efficiently — they represent my best attempt at the time, not the final word on any problem.
@@ -147,4 +134,4 @@ The material is shared strictly for educational reference. It is not intended to
 
 ---
 
-*This repository is a living document. It is updated continuously throughout the semester as new topics, labs, and exams are covered.*
+_This repository is a living document. It is updated continuously throughout the semester as new topics, labs, and exams are covered._
